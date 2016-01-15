@@ -1,7 +1,7 @@
 name: Yummii Nguyen
 favicon: null
-layout_spectrum: 0.644940867787227
-typography_spectrum: 0.8601444682572037
+layout_spectrum: 0.75
+typography_spectrum: 0.74278
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.48038430069573224
+  brandStrength: 0.5
   lightness: 0.17235465324483812
   saturation: 0.4493610898498446
   rhythmicContrast: 0.13168774405494332
