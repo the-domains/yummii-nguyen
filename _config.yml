@@ -25,5 +25,6 @@ cta:
   bucket: null
   version: null
 favicon: null
+title: This is the headline
 description: This is the tagline
 purpose: []
